@@ -349,8 +349,9 @@
           </div>
           <div class="col-lg-8">
             <p class="lead">la plateforme qui s'adapte à vos besoins d'apprentissage.</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus assumenda omnis tempora ullam alias amet eveniet voluptas, incidunt quasi aut officiis porro ad, expedita saepe necessitatibus rem debitis architecto dolore? Nam omnis sapiente placeat blanditiis voluptas dignissimos, itaque fugit a laudantium adipisci dolorem enim ipsum cum molestias? Quod quae molestias modi fugiat quisquam. Eligendi recusandae officiis debitis quas beatae aliquam?</p>
-            <p><a href="#">Read more</a></p>
+            <p> une communauté d'apprentissage en ligne dynamique où les élèves et les enseignants peuvent interagir et partager des ressources éducatives pertinentes pour favoriser l'apprentissage collaboratif. Aussi à fournir les sujets et corrigés des différents examens (BAC, DEF…)
+            </p>
+            {{-- <p><a href="#">Read more</a></p> --}}
           </div>
         </div>
       </div>
